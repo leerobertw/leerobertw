@@ -1,4 +1,13 @@
-## Hi there 👋
+#Personal Repository for Mr. Robert Lee - Lone Peak High School
+##B.S. Brigham Young University Computer Science
+##M.S. Brigham Young University Technology and Engineering Education
+
+### Courses That will be using Github
+- AP Computer Science A
+- Advanced Computer Programming
+- Computer Programming 2
+- Web Development 2
+  
 
 <!--
 **leerobertw/leerobertw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
